@@ -1,4 +1,4 @@
-# gostack12-desafio-conceitos-node
+# gostack12-desafio-primeiro-projeto-node
 Challenge developed during the Rocketseat's gostack12 bootcamp to build an api using typescript and service/repository pattern. 
 
 ## :memo: About
